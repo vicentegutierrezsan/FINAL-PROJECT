@@ -1,0 +1,29 @@
+input,h3,p{
+	margin-left:20px;
+}
+
+
+#name{
+	margin-bottom:20px;
+}
+
+
+#totalHeader{
+	font-size:30px;
+	color:white;
+	margin-left:100px;
+}
+
+#total{
+	float:right;
+	font-size:30px;
+	color:black;
+	margin-left:100px;
+}
+
+#email{
+	margin-bottom:20px;
+}
+#buyBtn{
+	margin-left:50px;
+}

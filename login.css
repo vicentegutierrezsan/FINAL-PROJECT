@@ -1,0 +1,87 @@
+body{
+	background-color: sienna;
+
+	
+}
+#homeMenu{
+
+	background-color: sienna;
+	border-width:3px;
+	border-color: orange;
+	border-style:dashed;
+
+  margin:100px;
+  margin-bottom:0;
+  padding:30px;
+}
+#homeTextDiv{
+  margin:100px;
+  margin-top:0;
+  background-color: chocolate;
+  padding:25px;
+}
+#imageMenu{
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin:0;
+  margin-left:100px;
+  padding-left:5px;
+  padding-right:5px;
+
+}
+
+h1 {
+	font-size: 35px;
+	font-style:italic;
+	font-family: "Times New Roman", Times, serif;
+    color: orange;
+    margin:0;
+    margin-left:50px;
+    padding: 10px;
+
+	}
+
+#image1{
+	
+  width: 500px;
+  height: 300px;
+  margin-left: 100px;
+ 
+  border-width:5px;
+  border-style: solid;
+  border-color: orange;
+  border-radius:25px;
+}
+ #optionDiv{
+ 	margin-left:100px;
+ 	margin-top:50px;
+ }
+
+ .option{
+
+ 	font-size: 20px;
+ 	font-style: bold;
+ 	font-family: "Times New Roman", Times, serif;
+ 	color:orange;
+ 	margin-right: 70px;
+ 	margin-top:0;
+
+ }
+
+ .loginSection{
+  margin-left: 300px;
+  margin-top:50px;
+  margin-bottom:50px;
+ }
+
+ #fieldsetLogin{
+  margin:100px;
+ }
+ #LoginUsername{
+  margin-top:10px;
+  color:red;
+  font-style: oblique;
+  font-size:20px;
+
+}
